@@ -11,7 +11,7 @@ Features:
 
 - No Ads (Ad-Free)
 - No interruptions
-- Possibly Faster Loading Speeds
+- Possibly Faster Loading & Connection Speeds
 - (PREMIUM NOT ENABLED)
 
 Version
