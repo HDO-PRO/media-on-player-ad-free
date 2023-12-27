@@ -12,6 +12,7 @@ Features:
 - No Ads (Ad-Free) - Updated Patches..
 - No interruptions
 - Possibly Faster Loading & Connection Speeds
+- Optimized
 - Dependencies code change.. (not gonna say what exactly)
 - Verification code change (not gonna say what exactly)
 - Other patch support..
