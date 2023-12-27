@@ -9,9 +9,12 @@ NEWS: TV VERSION COMING SOON!
 
 Features:
 
-- No Ads (Ad-Free)
+- No Ads (Ad-Free) - Updated Patches..
 - No interruptions
 - Possibly Faster Loading & Connection Speeds
+- Dependencies code change.. (not gonna say what exactly)
+- Verification code change (not gonna say what exactly)
+- Other patch support..
 - (PREMIUM NOT ENABLED)
 
 Version
