@@ -18,7 +18,7 @@ Features:
 - (PREMIUM NOT ENABLED)
 
 Version
-1.0.19
+1.0.19 (this number may not get updated)
 
 Requires Android
 5.0 and up
