@@ -45,7 +45,7 @@ Other Mods: (PREMIUM MAY BE INCLUDED, THESE ARE NOT BY ME I AM JUST LINKING)
 
 Community Screenshot: (Keep Scrollin)
 
-![image](https://github.com/MarshMeadow/media-on-player-ad-free/assets/88599122/e7ede71b-f5ae-4c93-8788-8760446e4f26) ![image](https://github.com/MarshMeadow/media-on-player-ad-free/assets/88599122/c78127f5-6d10-4d53-a6aa-85b809cf80cd)
+![image](https://github.com/MarshMeadow/media-on-player-ad-free/assets/88599122/c78127f5-6d10-4d53-a6aa-85b809cf80cd) ![image](https://github.com/MarshMeadow/media-on-player-ad-free/assets/88599122/e7ede71b-f5ae-4c93-8788-8760446e4f26)
 
 
 (note that other mods/apks may not be safe I would scan with a malware scanner like virus-total or Malwarebytes)..
