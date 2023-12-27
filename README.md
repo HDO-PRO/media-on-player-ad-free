@@ -39,9 +39,12 @@ NON MODDED Official Google Play Link: [Here](https://play.google.com/store/apps/
 
 Other Mods: (PREMIUM MAY BE INCLUDED, THESE ARE NOT BY ME I AM JUST LINKING)
 
-[APK Dog](https://media-on-play-all-format.apk.dog/#:~:text=Media%20ON%20%2D%20Play%20All%20Format%20(MOD)%201.0.,19&text=%2D%20Support%20for%20all%20popular%20video,playlists%20and%20organize%20your%20videos.)
+[APK Dog](https://media-on-play-all-format.apk.dog/#:~:text=Media%20ON%20%2D%20Play%20All%20Format%20(MOD)%201.0.,19&text=%2D%20Support%20for%20all%20popular%20video,playlists%20and%20organize%20your%20videos.) - Safe Scan: [VirusTotal](https://www.virustotal.com/gui/file/8cd9f079ecc7ccb3cab561dcba6637a50e594502fe8c1b8c04f35e688fd7978d)
 
-[ApkModCT](https://apkmodct.com/media-on-apk/)
+[ApkModCT](https://apkmodct.com/media-on-apk/) - (May not be safe, according to [My VirusTotal Scan](https://www.virustotal.com/gui/file/b9d12ef8d9aa10522d5ae3470ea05466bff8e3ac4c71a5a05dff2c8d7b82477d))
+
+Community Screenshot:
+![image](https://github.com/MarshMeadow/media-on-player-ad-free/assets/88599122/e7ede71b-f5ae-4c93-8788-8760446e4f26)
 
 (note that other mods/apks may not be safe I would scan with a malware scanner like virus-total or Malwarebytes)..
 
